@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Hey there, I'm David 👋</p>
-<p align="left">I'm a Full-Stack Developer specialized in C# .NET & software architecture. I build everything from SaaS apps, games, web3 stuff, ai workflows and all in between.</p>
+<p align="left">I'm a Full-Stack Developer specialized in C# .NET & software architecture. <br> I build everything from apps, games, ai, hardware, web3 and all in between.</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/davidraphaelschneider" target="_blank">
